@@ -94,5 +94,12 @@
         }
       }
     }
+  },
+  "build": {
+    "configurations": {
+      "production": {
+        "deployUrl": "https://your-absolute-url/"
+      }
+    }
   }
 }
